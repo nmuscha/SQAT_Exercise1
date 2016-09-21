@@ -1,0 +1,16 @@
+FileOpenedAction 1474457634071 BowlingGame.java 623 4 1 0
+FileOpenedAction 1474457744047 BowlingException.java 58 0 0 0
+FileOpenedAction 1474457747632 Frame.java 671 6 7 0
+FileOpenedAction 1474457750207 TestBowling.java 165 1 1 0
+RefactoringAction 1474460973105 BowlingGame.java ADD int i FIELD
+RefactoringAction 1474461029841 BowlingGame.java REMOVE i FIELD
+RefactoringAction 1474461030858 BowlingGame.java ADD int i FIELD
+RefactoringAction 1474461221176 BowlingGame.java ADD int ro FIELD
+RefactoringAction 1474461222199 BowlingGame.java RENAME ro=>int roll FIELD
+RefactoringAction 1474461241764 BowlingGame.java REMOVE BowlingGame() METHOD
+RefactoringAction 1474461243286 BowlingGame.java ADD BowlingGame() METHOD
+RefactoringAction 1474461291043 BowlingGame.java ADD int turn FIELD
+RefactoringAction 1474461384767 BowlingGame.java RENAME roll=>int knock FIELD
+RefactoringAction 1474461651557 Frame.java RENAME isStrike()=>boolean isStrike(int) METHOD
+RefactoringAction 1474461675073 Frame.java RENAME isStrike(int)=>boolean isStrike() METHOD
+EditAction 1474462272743 BowlingGame.java 752 4 1 0

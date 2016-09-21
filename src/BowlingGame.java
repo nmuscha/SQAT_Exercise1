@@ -9,10 +9,19 @@ public class BowlingGame {
 	private List<Frame> frames = new ArrayList<Frame>();
 	private Frame bonus;
 	
-	public BowlingGame(){}
+	int knock = new int [10];
+	int turn = 1;
 	
+	public BowlingGame(){}
+	for (int i = 0; i<10; i++)
+		{
+			knock [i]=1;
+		}
+		
 	// adds a frame to the game
 	public void addFrame(Frame frame){
+
+	for (int = 0;
 		//to be implemented
 	}
 	
@@ -23,6 +32,8 @@ public class BowlingGame {
 	
 	// Returns the game score
 	public int score(){
+	
+		
 		//to be implemented: should return game score 
 		return 0;
 	}
