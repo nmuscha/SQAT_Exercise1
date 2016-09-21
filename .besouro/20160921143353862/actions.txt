@@ -31,3 +31,47 @@ RefactoringAction 1474462691107 BowlingGame.java ADD int strke FIELD
 RefactoringAction 1474462722733 BowlingGame.java RENAME strke=>int strike FIELD
 RefactoringAction 1474464109114 Frame.java RENAME isStrike()=>boolean isStrike(int) METHOD
 EditAction 1474464256011 Frame.java 784 6 7 0
+CompilationAction 1474464257807 BowlingGame.java
+CompilationAction 1474464257809 BowlingGame.java
+CompilationAction 1474464257810 BowlingGame.java
+CompilationAction 1474464257811 BowlingGame.java
+CompilationAction 1474464257812 BowlingGame.java
+CompilationAction 1474464257813 BowlingGame.java
+CompilationAction 1474464257814 BowlingGame.java
+CompilationAction 1474464257815 BowlingGame.java
+CompilationAction 1474464257816 BowlingGame.java
+CompilationAction 1474464257817 BowlingGame.java
+CompilationAction 1474464257818 BowlingGame.java
+CompilationAction 1474464257819 BowlingGame.java
+CompilationAction 1474464257820 Frame.java
+RefactoringAction 1474464511101 BowlingGame.java RENAME knock=>int roll FIELD
+CompilationAction 1474464644679 BowlingGame.java
+CompilationAction 1474464644680 BowlingGame.java
+CompilationAction 1474464644681 BowlingGame.java
+CompilationAction 1474464644683 BowlingGame.java
+CompilationAction 1474464644684 BowlingGame.java
+CompilationAction 1474464644685 BowlingGame.java
+CompilationAction 1474464644686 BowlingGame.java
+CompilationAction 1474464644687 BowlingGame.java
+CompilationAction 1474464644688 BowlingGame.java
+CompilationAction 1474464644689 BowlingGame.java
+CompilationAction 1474464644690 BowlingGame.java
+CompilationAction 1474464644691 BowlingGame.java
+CompilationAction 1474464644884 BowlingGame.java
+CompilationAction 1474464644885 BowlingGame.java
+CompilationAction 1474464644887 BowlingGame.java
+CompilationAction 1474464644888 BowlingGame.java
+CompilationAction 1474464644889 BowlingGame.java
+CompilationAction 1474464644891 BowlingGame.java
+CompilationAction 1474464644892 BowlingGame.java
+CompilationAction 1474464644893 BowlingGame.java
+CompilationAction 1474464644895 BowlingGame.java
+CompilationAction 1474464644896 BowlingGame.java
+CompilationAction 1474464644897 BowlingGame.java
+CompilationAction 1474464644898 BowlingGame.java
+CompilationAction 1474464644899 BowlingGame.java
+CompilationAction 1474464644901 BowlingGame.java
+CompilationAction 1474464644902 BowlingGame.java
+CompilationAction 1474464644903 BowlingGame.java
+CompilationAction 1474464644904 BowlingGame.java
+CompilationAction 1474464644905 BowlingGame.java

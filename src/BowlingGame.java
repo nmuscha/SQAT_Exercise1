@@ -9,25 +9,31 @@ public class BowlingGame {
 	private List<Frame> frames = new ArrayList<Frame>();
 	private Frame bonus;
 	
-	int knock = new int [10];
+	int roll = new int [10];
 	int turn = 1;
+	int spare = 0;
+	int strike = 0;
 	
 	public BowlingGame(){}
 	for (int i = 0; i<10; i++)
 		{
-			knock [i]=1;
+			roll [i]=1;
 		}
 		
 	// adds a frame to the game
 	public void addFrame(Frame frame){
-
-	for (int = 0;
-		//to be implemented
+		frame = 10;
+			if (firstThrow>=1; frame++;)
+				else if (secondThrow>4 frame ++)
+		
 	}
 	
 	// Sets the bonus throws at the end of the game
 	public void setBonus(int firstThrow, int secondThrow) {
-		//to be implemented
+		if (firstThrow == 10)
+			bonus = strike;
+		else if (secondThrow = 10)
+			bonus = spare;	
 	}
 	
 	// Returns the game score
