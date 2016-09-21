@@ -14,3 +14,20 @@ RefactoringAction 1474461384767 BowlingGame.java RENAME roll=>int knock FIELD
 RefactoringAction 1474461651557 Frame.java RENAME isStrike()=>boolean isStrike(int) METHOD
 RefactoringAction 1474461675073 Frame.java RENAME isStrike(int)=>boolean isStrike() METHOD
 EditAction 1474462272743 BowlingGame.java 752 4 1 0
+CompilationAction 1474462274685 BowlingGame.java
+CompilationAction 1474462274687 BowlingGame.java
+CompilationAction 1474462274688 BowlingGame.java
+CompilationAction 1474462274689 BowlingGame.java
+CompilationAction 1474462274690 BowlingGame.java
+CompilationAction 1474462274691 BowlingGame.java
+CompilationAction 1474462274692 BowlingGame.java
+CompilationAction 1474462274692 BowlingGame.java
+CompilationAction 1474462274694 BowlingGame.java
+CompilationAction 1474462274694 BowlingGame.java
+CompilationAction 1474462274695 BowlingGame.java
+CompilationAction 1474462274696 BowlingGame.java
+RefactoringAction 1474462667936 BowlingGame.java ADD int spare FIELD
+RefactoringAction 1474462691107 BowlingGame.java ADD int strke FIELD
+RefactoringAction 1474462722733 BowlingGame.java RENAME strke=>int strike FIELD
+RefactoringAction 1474464109114 Frame.java RENAME isStrike()=>boolean isStrike(int) METHOD
+EditAction 1474464256011 Frame.java 784 6 7 0
